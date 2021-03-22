@@ -1,0 +1,140 @@
+body {
+    background: #181717;height: 6000px;}
+.container {
+    margin: auto;
+    width: 1170px;  }     
+        
+
+
+/*start header*/
+.header .slider {background-color: #181717;
+    height:500px;text-align: center}
+
+
+.header .navbar {
+    background-color: #181717;
+    color:#fff;
+    overflow: hidden; }
+.header .navbar h2{
+    float: left;color:#fff;
+    text-transform:uppercase;
+}
+
+.header .navbar h2 span{
+    color:#2ecc71;
+    text-transform:uppercase;font-family:Cooper Black
+    }
+
+
+.header .navbar ul{
+    list-style: none;
+    padding-left: 0;
+    overflow: hidden;
+    float: right;
+ text-transform:uppercase}
+    
+.header .navbar ul li{float:left;padding: 10px;
+   }
+    
+/*end header*/
+
+/*start story*/
+
+.features{
+    background-color: #181717;overflow:hidden;padding-top:100px
+}
+
+
+.features .story{background-color: #181717; color:#fff;padding-top: 50px;width: 40%;
+    float: right;
+}
+
+
+.features .photo{background-color: #181717 ;padding-top: 50px;width: 20%;
+    float:left;}
+.features .story h2{color: #956e50}   
+
+
+/*end story*/
+
+/*start menue*/
+
+.menue{
+    background-color: #181717;overflow:hidden
+}
+
+.menue .dishes{background-color: #181717;color: #fff;padding-top: 50px;width: 80%;float: right}
+
+.menue .dishes h2{color: #956e50}
+
+.categories{background-color: #181717;overflow:hidden;padding-top: 100px}
+
+.categories .photo{float: left;padding-top: 50px;width: 20%}
+
+.categories .dish {float: right;color: #fff;padding-top: 80px;width:50%}
+
+
+.main{background-color:#181717;overflow: hidden}
+
+.main .photo{float: right;padding-top:50px;width:10%}
+
+.main .dish{float: left;width:50%;color:#fff;padding-top: 50px;padding-left: 40px}
+.main .dish h2{color:#956e50}
+
+.side{background-color: #181717;overflow:hidden}
+
+.side .photo {float:left;padding-top: 50px;width: 20%}
+
+
+.side .dish{float: right;color:#fff;width: 30%}
+.side .dish h2{color:#956e50}
+
+.dessert{background-color: #181717;overflow:hidden}
+
+.dessert .photo {float:right;padding-top: 50px;width: 10%}
+
+.dessert .dish{float: left;color:#fff;width: 50%;padding-top: 50px;padding-left: 40px}
+.dessert .dish h2{color:#956e50}
+
+.progress{
+    background-color: #181717;overflow:hidden;padding-top:200px
+}
+
+
+.progress .event{background-color: #181717; color:#fff;padding-top: 50px;width: 40%;
+    float: right;
+}
+
+
+.progress .photo{background-color: #181717 ;padding-top: 50px;width: 20%;
+    float:left;}
+  
+.progress .event .party{color:#0ff;float: right;text-align: right}
+
+.progress .event h2{color:#956e50}
+  
+    
+/*end menue*/
+
+.ingredients h2{color: #956e50;text-align: center;padding-top: 50px;font-size: 50px;font-family: Kunstler Script}
+
+.ingredients p{color: #fff;padding-top: 20px;text-align: center;width: 40%;float: left;padding-left: 350px}
+
+
+.end .image{padding-top:200px}
+
+.booking .image{padding-top: 300px}
+
+
+/*start info*/
+
+.info{border:1px solid;width:1500px;height:300px; background-color:#181717;margin: 10px;padding: 10px;color:#fff;
+    
+}
+
+.info caption{color:#956e50;font-size: 50px}
+
+.home h2{text-align: center;color:#956e50;font-size: 200px;font-weight: bold;font-family: Kunstler Script}
+
+
+/*end info*/
